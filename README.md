@@ -1,7 +1,7 @@
 # A-lyric-plugin-for-MusicFree
 基于MusicFree的一款更好用的歌词插件
 
-**本插件完全基于ChatGPT（AI真是太好用了），以下时GPT给出的使用说明**
+**本插件完全基于ChatGPT（AI真是太好用了），以下是GPT给出的使用说明**
 
 # MusicFree 智能歌词插件
 
