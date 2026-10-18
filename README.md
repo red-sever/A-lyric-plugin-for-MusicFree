@@ -3,7 +3,7 @@
 
 **订阅链接**：https://github.com/red-sever/A-lyric-plugin-for-MusicFree/releases/latest/download/MusicFree_SearchingLyric.js
 
-*国内网络可以用gitee*https://gitee.com/red_sever/a-lyric-plugin-for-music-free/releases/download/v1.0.5/MusicFree_SearchingLyric.js
+*国内网络可以用gitee*:https://gitee.com/red_sever/a-lyric-plugin-for-music-free/releases/download/v1.0.5/MusicFree_SearchingLyric.js
 
 **本插件完全基于ChatGPT（AI真是太好用了），以下是GPT给出的使用说明**
 
