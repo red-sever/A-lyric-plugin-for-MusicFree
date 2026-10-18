@@ -497,7 +497,7 @@ function fetchLyric(item, withTranslation) {
 module.exports = {
     platform: PLATFORM,
     version: "1.0.3",
-    author: "个人定制",
+    author: "Red_sever by GPT",
     description: "**安卓版入口：播放歌曲 → 打开歌词页 → 点击底部放大镜 → 选择本插件。**\n\n在该入口搜索「插件自检」，应出现一个无需联网的测试结果。正常搜索可输入「歌手 - 歌名」，选中结果后关联歌词。\n\n也可在歌词设置中启用自动搜索歌词。原歌曲已有歌词时，播放器通常优先使用原歌词。\n\n本插件只提供歌词，不出现在普通歌曲搜索或排行榜中。支持网易云、QQ及翻译；自动搜索仅传入歌名，完整匹配受播放器接口限制。",
     primaryKey: ["id"],
     supportedSearchType: ["lyric"],
