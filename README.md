@@ -5,8 +5,8 @@
 
 # MusicFree 智能歌词插件
 
-插件安装文件：`musicfree-smart-lyrics-1.0.3-android.js`  
-插件显示名称：**智能歌词（网易云·QQ）**  
+插件安装文件：`MusicFree_SearchingLyric.js`  
+插件显示名称：**歌词检索**  
 版本：1.0.3（已经安卓兼容编译）
 
 ## 1.0.3：带前缀标题和自动加载
